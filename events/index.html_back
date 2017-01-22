@@ -1,0 +1,1306 @@
+
+<html>
+<head>
+
+	<title>reflections | projections 1999 -- events</title>
+	
+	<meta name="description" content="Reflections | Projections 1999 is the Annual Student Computing Conference sponsored by the University of Illinois chapter of the Association for Computing Machinery.">
+
+	<meta name="keywords" content="ACM, Association for Computing Machinery, conferences, jobs, resume, recruiting, software, hardware, developers">
+
+<style>
+	.bodytext {
+		
+		font: 12px/14px Helvetica, Arial, sans-serif; text-align: justify; 
+		
+		}
+		
+	.addtext {
+		
+		font: 11px/13px Helvetica, Arial, sans-serif; text-align: center; 
+		
+		}
+		
+	A:link { color: #336633; text-decoration: none; }
+	A:active { color: #336633; text-decoration: none; }
+	A:visited { color: #336633; text-decoration: none; }
+
+</style>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+AOff = new Image ();
+AOff.src = "../images/about_off.gif"
+AOn = new Image ();
+AOn.src = "../images/about_on.gif"
+
+EOff = new Image ();
+EOff.src = "../images/events_on.gif"
+EOn = new Image ();
+EOn.src = "../images/events_on.gif"
+
+IOff = new Image ();
+IOff.src = "../images/information_off.gif"
+IOn = new Image ();
+IOn.src = "../images/information_on.gif"
+
+ROff = new Image ();
+ROff.src = "../images/registration_off.gif"
+ROn = new Image ();
+ROn.src = "../images/registration_on.gif"
+
+SOff = new Image ();
+SOff.src = "../images/sponsors_off.gif"
+SOn = new Image ();
+SOn.src = "../images/sponsors_on.gif"
+
+COff = new Image ();
+COff.src = "../images/corporate_off.gif"
+COn = new Image ();
+COn.src = "../images/corporate_on.gif"
+
+function ChangeImage (ImageName,FileName) {
+// modified by Romesh Kumbhani so old Jscript based browsers don't choke
+ var IsValid = (navigator.userAgent.indexOf("IE 2") == -1)&&(navigator.userAgent.indexOf("IE 3") == -1);
+ if (IsValid) {
+        document[ImageName].src = window[FileName].src;
+ }
+}
+
+</SCRIPT>
+
+
+</head>
+
+
+<body background="../images/bg.gif" text="#333300" link="#336633" alink="#999966" vlink="#333300">
+<table border="0" cellpadding="0" cellspacing="0" width="590">
+
+<tr>
+	<td rowspan="5" width="10">
+	<img src="../images/pixel.gif" alt="." border="0" width="10" height="1">
+	</td>
+
+	<td align="left" valign="top" width="470" colspan="2">
+	<a href="../"><img src="../images/head.gif" alt="reflections | projections" width="285" height="25" border="0"></a>
+	</td>
+	
+	<td align="right" valign="bottom" width="110">
+	<img src="../images/1999.gif" alt="Conference 1999" width="57" height="25" border="0">
+	</td>
+
+</tr>
+
+<tr>
+	<td colspan="3">
+	<img src="../images/pixel.gif" alt="." width="1" height="35" border="0">
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="bottom" width="300" colspan="2">
+	<img src="../images/h_events.gif" alt="Events" width="132" height="25" border="0">
+	</td>
+	
+	
+	
+	<td align="right" valign="top">
+	<a href="http://www.acm.uiuc.edu/"><img src="../images/acm.gif" alt="acm@uiuc.edu" width="57" height="26" border="0"></a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan="3">
+	<img src="../images/pixel.gif" alt="." width="1" height="25" border="0">
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top" width="360">
+	<font size="3" face="helvetica, arial">
+	<p class="bodytext"><a name="top"></a>
+	<font size="-1">
+	This schedule is currently being updated.  Please be patient as 
+all the events are added.  Thank you.
+
+	<br><br><a href="#fri">Friday, October 8</a> | <a 
+href="#sat">Saturday, October 9</a> | <a href="#sun">Sunday, October 10</a>
+	</a>
+	<br><br>
+	<!-- Table for schedules goes here. -->
+
+	<!-- Friday Schedule -->
+	<a name="fri"></a>
+	<table width="400" border="0" bgcolor="#cc6633">
+	<tr>
+	<td>
+	
+	<table width="100%" bgcolor="#ffffff" cellspacing="1" cellpadding="2" 
+border="0">
+	<tr>
+	<td bgcolor="#cc6633" align="left" valign="top" colspan="4">
+	<font face="arial,helvetica,sans-serif" size="-1" color="#ffffcc">
+	<b>Friday, October 8, 1999</b>
+	</font>
+	</td>
+	</tr>
+	<tr bgcolor="#ff9966">
+	<td align="left" valign="top" width="60">
+	<font face="arial,helvetica,sans-serif" size="-2">
+        <b>Time</b>
+        </font>
+	</td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a 
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Metallurgy+and+Mining+Building" 
+target="top">Met&Min</a></b>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<b><a 
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Digital+Computer+Laboratory" 
+target="top">1320 DCL</a></b>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<b><a href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Noyes+Laboratory" 
+target="top">Noyes Lab</a></b>
+        </font>
+        </td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:00am</b>
+        </font>
+        </td>
+        <td rowspan="3" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        <td rowspan="3" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="3" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:30</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:00</b>
+        </font>
+        </td>
+        </tr>
+
+        <tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:00</b>
+        </font>
+        </td>
+        <td colspan="3" rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        Lunch
+        </font>
+        </td>
+        </tr>
+
+	<tr>
+	<td align="left" valign="top">
+	<font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:30</b>
+        </font>
+	</td>
+	</tr>
+	</table>
+
+	</td>
+	</tr>
+	</table>
+
+	<a href="#top">Top</a>
+	<br><br>
+	
+	<!-- Saturday Table -->
+	<a name="sat"></a>
+        <table width="400" border="0" bgcolor="#cc6633">
+        <tr>
+        <td>
+
+	<table width="100%" bgcolor="#ffffff" cellspacing="1" cellpadding="2"
+border="0">
+        <tr>
+        <td bgcolor="#cc6633" align="left" valign="top" colspan="4">
+        <font face="arial,helvetica,sans-serif" size="-1" color="#ffffcc">
+        <b>Saturday, October 9, 1999</b>
+        </font>
+        </td>
+        </tr>
+        <tr bgcolor="#ff9966">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Time</b>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Metallurgy+and+Mining+Building"
+target="top">Met&Min</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Digital+Computer+Laboratory"
+target="top">1320 DCL</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a 
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Noyes+Laboratory"
+target="top">Noyes Lab</a></b>
+        </font>
+        </td>
+        </tr>
+
+        <tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:00am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+	<font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+	</font>
+	</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:30am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+       	<br>
+	</font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:00am</b>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=2
+">Building and Scaling Networks</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=9">Bill Nash</a>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=1
+">Unnamed Event</a></b>
+	<br><a href="/acm-cgi-bin/conference/person.cgi?id=18">Noshir Contractor</a>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:30am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:00am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=4
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=12">Theo 
+de Raadt</a>
+	</font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=3
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=10">Ralph 
+Johnson</a>
+        </font>
+        </td>
+        </tr>
+
+        <tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:30am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:00am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<b><a href="/acm-cgi-bin/conference/event.cgi?id=6
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=15">Daniel 
+Lipkin</a>
+
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+        <tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:30am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:00pm</b>
+        </font>
+        </td>
+        <td rowspan="2" colspan="3" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        Lunch
+        </font>
+        </td>
+        </tr>
+
+	<tr>
+	<td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:30</b>
+        </font>
+        </td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>1:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>1:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>2:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>2:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>3:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+	<td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=10
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=11">Mark Tebbe</a>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=9
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=6">Mike 
+Abrash</a>
+
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>3:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>4:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<b><a href="/acm-cgi-bin/conference/event.cgi?id=21
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=7">Brian 
+Totty</a>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>4:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+	
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>5:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+	<td rowspan="2" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=22
+">Unnamed Event</a></b>
+        <br><a href="/acm-cgi-bin/conference/person.cgi?id=20">Guido van 
+Rossum</a>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>5:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+	</table>
+
+	</td>
+	</tr>
+	</table>
+
+	<a href="#top">Top</a>
+        <br><br>
+
+	
+	<!-- Sunday Table -->
+        <a name="sun"></a>
+        <table width="400" border="0" bgcolor="#cc6633">
+        <tr>
+        <td>
+
+        <table width="100%" bgcolor="#ffffff" cellspacing="1" cellpadding="2"
+border="0">
+        <tr>
+        <td bgcolor="#cc6633" align="left" valign="top" colspan="4">
+        <font face="arial,helvetica,sans-serif" size="-1" color="#ffffcc">
+        <b>Sunday, October 10, 1999</b>
+        </font>
+        </td>
+        </tr>
+        <tr bgcolor="#ff9966">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Time</b>
+        </font>
+        </td>
+	<td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Metallurgy+and+Mining+Building"
+target="top">Met&Min</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Digital+Computer+Laboratory"
+target="top">1320 DCL</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a 
+href="http://www.uiuc.edu/cgi-bin/where_is?bldg=Noyes+Laboratory"
+target="top">Noyes Lab</a></b>
+        </font>
+        </td>
+        </tr>
+
+        <tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:00am</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>8:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font rowspan="3" face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=13
+">Intellectual Property Panel</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>9:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>10:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td rowspan="3" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=15
+">Computer Science Education Panel</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:00</b>
+        </font>
+        </td>
+        <td rowspan="4" align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b><a href="/acm-cgi-bin/conference/event.cgi?id=17
+">Be Programming Workshop</a></b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>11:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:00pm</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>12:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>1:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>1:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>2:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>2:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>3:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>3:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>4:00</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+	<tr bgcolor="#ffffff">
+        <td align="left" valign="top" width="60">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>4:30</b>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        <td align="left" valign="top" width="100">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <br>
+        </font>
+        </td>
+        </tr>
+
+        </table>
+
+        </td>
+        </tr>
+        </table>
+
+	<a href="#top">Top</a>
+        <br><br>
+
+	</p>
+
+	<!-- 
+	<p class="bodytext">If you have not already registered for the Conference, you can complete the <a href="../registration/registration_form.html">registration form</a> now.</p>
+	-->
+	
+	</font>
+
+	</td>
+	
+	<td align="right" valign="top" width="70" rowspan="3">
+	<img src="../images/pixel.gif" alt="" width="70" height="1" border="0">
+	</td>
+	
+	<td align="right" valign="top" width="110"><A HREF="../about/" onMouseover="ChangeImage ('A','AOn'); return true" onMouseout="ChangeImage ('A','AOff'); return true"><img src="../images/about_off.gif" name="A" alt="About" width="104" height="17" border="0
+
+
+
+
+
+
+
+
+
+
+"></a>
+<br>
+<A HREF="../events/" onMouseover="ChangeImage ('E','EOn'); return true" onMouseout="ChangeImage ('E','EOn'); return true"><img src="../images/events_on.gif" name="E" alt="Events" width="104" height="18" border="0"></a>
+<A HREF="../information/" onMouseover="ChangeImage ('I','IOn'); return true" onMouseout="ChangeImage ('I','IOff'); return true"><img src="../images/information_off.gif" name="I" alt="Information" width="104" height="18" border="0"></a>
+
+<br><A HREF="../registration/" onMouseover="ChangeImage ('R','ROn'); return true" onMouseout="ChangeImage ('R','ROff'); return true"><img src="../images/registration_off.gif" name="R" alt="Registration" width="104" height="18" border="0"></a>
+
+<br><A HREF="../sponsors/" onMouseover="ChangeImage ('S','SOn'); return true" onMouseout="ChangeImage ('S','SOff'); return true"><img src="../images/sponsors_off.gif" name="S" alt="Sponsors" width="104" height="17" border="0"></a>
+
+<br><A HREF="../corporate/" onMouseover="ChangeImage ('C','COn'); return true" onMouseout="ChangeImage ('C','COff'); return true"><img src="../images/corporate_off.gif" name="C" alt="Corporate" width="104" height="10" border="0"></a>
+
+
+	</td>
+</tr>
+
+</table>
+
+
+</body>
+</html>

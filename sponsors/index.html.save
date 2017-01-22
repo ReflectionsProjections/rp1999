@@ -1,0 +1,350 @@
+
+<html>
+<head>
+
+	<title>reflections | projections 1999 -- sponsors</title>
+	
+	<meta name="description" content="Reflections | Projections 1999 is the Annual Student Computing Conference sponsored by the University of Illinois chapter of the Association for Computing Machinery.">
+
+	<meta name="keywords" content="ACM, Association for Computing Machinery, conferences, jobs, resume, recruiting, software, hardware, developers">
+
+<style>
+	.bodytext {
+		
+		font: 12px/14px Helvetica, Arial, sans-serif; text-align: justify; 
+		
+		}
+		
+	.addtext {
+		
+		font: 11px/13px Helvetica, Arial, sans-serif; text-align: center; 
+		
+		}
+		
+	A:link { color: #336633; text-decoration: none; }
+	A:active { color: #336633; text-decoration: none; }
+	A:visited { color: #336633; text-decoration: none; }
+
+</style>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+AOff = new Image ();
+AOff.src = "../images/about_off.gif"
+AOn = new Image ();
+AOn.src = "../images/about_on.gif"
+
+EOff = new Image ();
+EOff.src = "../images/events_off.gif"
+EOn = new Image ();
+EOn.src = "../images/events_on.gif"
+
+IOff = new Image ();
+IOff.src = "../images/information_off.gif"
+IOn = new Image ();
+IOn.src = "../images/information_on.gif"
+
+ROff = new Image ();
+ROff.src = "../images/registration_off.gif"
+ROn = new Image ();
+ROn.src = "../images/registration_on.gif"
+
+SOff = new Image ();
+SOff.src = "../images/sponsors_on.gif"
+SOn = new Image ();
+SOn.src = "../images/sponsors_on.gif"
+
+COff = new Image ();
+COff.src = "../images/corporate_off.gif"
+COn = new Image ();
+COn.src = "../images/corporate_on.gif"
+
+function ChangeImage (ImageName,FileName) {
+// modified by Romesh Kumbhani so old Jscript based browsers don't choke
+ var IsValid = (navigator.userAgent.indexOf("IE 2") == -1)&&(navigator.userAgent.indexOf("IE 3") == -1);
+ if (IsValid) {
+        document[ImageName].src = window[FileName].src;
+ }
+}
+
+</SCRIPT>
+
+
+</head>
+
+
+<body background="../images/bg.gif" text="#333300" link="#336633" alink="#999966" vlink="#333300">
+
+<table border="0" cellpadding="0" cellspacing="0" width="590">
+
+<tr>
+	<td rowspan="5" width="10">
+	<img src="../images/pixel.gif" alt="." border="0" width="10" height="1">
+	</td>
+
+	<td align="left" valign="top" width="470" colspan="2">
+	<a href="../"><img src="../images/head.gif" alt="reflections | projections" width="285" height="25" border="0"></a>
+	</td>
+	
+	<td align="right" valign="bottom" width="110">
+	<img src="../images/1999.gif" alt="Conference 1999" width="57" height="25" border="0">
+	</td>
+
+</tr>
+
+<tr>
+	<td colspan="3">
+	<img src="../images/pixel.gif" alt="." width="1" height="35" border="0">
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="bottom" width="300" colspan="2">
+	<img src="../images/h_sponsors.gif" alt="Sponsors" width="177" height="26" border="0">
+	</td>
+	
+	
+	
+	<td align="right" valign="top">
+	<a href="http://www.acm.uiuc.edu/"><img src="../images/acm.gif" alt="acm@uiuc.edu" width="57" height="26" border="0"></a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan="3">
+	<img src="../images/pixel.gif" alt="." width="1" height="25" border="0">
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top" width="310">
+	<font size="2" face="helvetica,arial">
+	<p class="bodytext">
+Without the help of our generous sponsors, the Conference could not be a 
+success.  We thank all of our sponsors for their generous donations to 
+Conference this year.
+<br><br>For more information on sponsorship, please 
+see the <a href="../corporate/">corporate</a> section of the site.</p>
+
+	
+	<table border="0" width="300" cellpadding="0" cellspacing="0">
+	<tr>
+	<td align="left" valign="top" width="100">
+	<a href="" target="top"><img 
+src="../images/abbott.gif" border="0"></a>
+	</td>
+	<td align="left" valign="top" width="200">
+	<font face="arial,helvetica,sans-serif" size="-2">
+	<b>Abbott Laboratories</b>
+	<br>
+
+	</font>
+	</td>
+	</tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+	<tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.mcs.anl.gov/" target="top"><img 
+src="../images/argonne.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+	<b>Argonne National Laboratory</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.collegehire.com" target="top"><img 
+src="../images/collegehire.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Collegehire.com</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.confinity.com" target="top"><img 
+src="../images/confinity.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Confinity, Inc.</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.crowechizek.com" target="top"><img 
+src="../images/crowe.jpg" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Crowe, Chizek and Company LLP</b>
+        </font>
+        </td>
+        </tr> 
+
+	<tr><td colspan="2"><br></td></tr>
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.lante.com" target="top"><img 
+src="../images/lante.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Lante Corporation</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.lucent.com" target="top"><img 
+src="../images/lucent.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Lucent Technologies</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.sap.com" target="top"><img 
+src="../images/sap.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>SAP Labs</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.sendmail.com" target="top"><img 
+src="../images/sendmail.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Sendmail, Inc.</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.str.com" target="top"><img 
+src="../images/str.gif" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>STR</b>
+        </font>
+        </td>
+        </tr>
+
+	<tr><td colspan="2"><br></td></tr>
+
+        <tr>
+        <td align="left" valign="top" width="100">
+        <a href="http://www.trilogy.com" target="top"><img 
+src="../images/trilogy.jpg" border="0"></a>
+        </td>
+        <td align="left" valign="top" width="200">
+        <font face="arial,helvetica,sans-serif" size="-2">
+        <b>Trilogy Software, Inc.</b>
+        </font>
+        </td>
+        </tr>
+	</table>
+
+
+	<br><br>
+	<br><em>Also taking part in this year's job fair:</em>
+	<br><br>
+	<a href="http://www.microsoft.com" target="top">Microsoft</a>
+	<br><a href="http://www.ccon.com" target="top">Clarity Consulting, Inc.</a>
+	<br><a href="http://www.hp.com" target="top">Hewlett-Packard</a>
+	<br><a href="http://www.geneer.com" target="top">Geneer</a>
+	<br><a href="http://www.gr.com/" target="top">Greenbrier & Russel, Inc.</a>
+	<br><a href="http://www.diamtech.com/" target="top">Diamond Technology 
+Partners</a>
+	<br><a href="http://www.ucm.com/homepage/homepage.asp" target="top">ComEd-A 
+Unicom Company</a>
+	<br><a href="http://www.PricewaterhouseCoopers.com/" 
+target="top">PricewaterhouseCoopers</a>
+	<br><a href="http://www.ghs.com/" target="top">Green Hills Software, 
+Inc.</a>
+	<br><a href="http://www.gte.com" target="top">GTE Corporation</a>
+	<br><a href="http://www.slb.com/" target="top">Schlumberger</a>
+	<br><a href="http://www.argus-systems.com" target="top">Argus Systems Group, Inc.</a>
+	<br><a href="http://www.ac.com" target="top">Andersen Consulting</a>
+	<br><a href="http://www.trw.com" target="top">TRW S&ITG Denver Colorado</a>
+	<br><a href="http://www.arthurandersen.com" target="top">Arthur Andersen Business Consulting</a>
+	<br><a href="http://www.denmac.com" target="top">Denmac Systems</a>
+	</font>
+
+	</td>
+	
+	<td align="right" valign="top" width="170" rowspan="3">
+	<img src="../images/trial_photo.gif" alt="photo: some people doing some stuff" width="149" height="216" border="0">
+	</td>
+	
+	<td align="right" valign="top" width="110"><A HREF="../about/" onMouseover="ChangeImage ('A','AOn'); return true" onMouseout="ChangeImage ('A','AOff'); return true"><img src="../images/about_off.gif" name="A" alt="About" width="104" height="17" border="0
+
+
+
+
+
+
+
+
+"></a>
+<br>
+<A HREF="../events/" onMouseover="ChangeImage ('E','EOn'); return true" onMouseout="ChangeImage ('E','EOff'); return true"><img src="../images/events_off.gif" name="E" alt="Events" width="104" height="18" border="0"></a>
+<A HREF="../information/" onMouseover="ChangeImage ('I','IOn'); return true" onMouseout="ChangeImage ('I','IOff'); return true"><img src="../images/information_off.gif" name="I" alt="Information" width="104" height="18" border="0"></a>
+
+<br><A HREF="../registration/" onMouseover="ChangeImage ('R','ROn'); return true" onMouseout="ChangeImage ('R','ROff'); return true"><img src="../images/registration_off.gif" name="R" alt="Registration" width="104" height="18" border="0"></a>
+
+<br><A HREF="../sponsors/" onMouseover="ChangeImage ('S','SOn'); return true" onMouseout="ChangeImage ('S','SOn'); return true"><img src="../images/sponsors_on.gif" name="S" alt="Sponsors" width="104" height="17" border="0"></a>
+
+<br><A HREF="../corporate/" onMouseover="ChangeImage ('C','COn'); return true" onMouseout="ChangeImage ('C','COff'); return true"><img src="../images/corporate_off.gif" name="C" alt="Corporate" width="104" height="10" border="0"></a>
+
+
+	</td>
+</tr>
+
+</table>
+
+
+</body>
+</html>
